@@ -1,2 +1,3 @@
 # tms-lesson22
-print("Hello world!")
+print("Warning!")
+print("Hello world")
